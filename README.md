@@ -16,6 +16,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Websites](#websites)
     - [IDE Templates](#ide-templates)
     - [GitHub](#github)
+    - [DevOps] (#devops)
 - [Contributing](#contributing)
 
 
@@ -179,6 +180,14 @@ Curated list of boilerplates and templates to enhance productivity.
 
 - [GitHub Template Guidelines](https://github.com/cezaraugusto/github-template-guidelines) Collection of guidelines and boilerplate files for writing maintanable GitHub projects.
 - [Pollinate](https://github.com/everysquare/pollinate) Template your base files and generate them from GitHub.
+
+##  DevOps
+
+*Boilerplates for DevOps*
+
+- [Boilerplate for a basic AWS infrastructure with EKS cluster](https://github.com/maddevsio/aws-eks-base) This boilerplate contains the know-how of the Mad Devs team for the rapid deployment of a Kubernetes cluster, supporting services, and the underlying infrastructure in the Amazon cloud.
+- [IaC Tool for Easy EKS Kubernetes Cluster Deployment](https://github.com/provectus/swiss-army-kube/) This repository provides the minimal set of resources, which may be required for starting comfortably developing the process of new IaC project.
+- [Terraform module for provisioning an EKS cluster](https://github.com/cloudposse/terraform-aws-eks-cluster) This is terraform module to provision an EKS cluster on AWS.
 
 # [Contributing](https://github.com/melvin0008/awesome-projects-boilerplates/blob/master/CONTRIBUTING.MD)
 
